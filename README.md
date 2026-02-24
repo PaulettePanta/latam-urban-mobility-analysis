@@ -36,11 +36,11 @@ Histogram: GDP per Capita.png
 
 Are there significant outliers in traffic congestion levels across the region? - Key Insight: While the regional average delay is 629.52 minutes, the boxplot highlights a specific outlier reaching nearly 3,000 minutes. This indicates a unique case of extreme congestion that deviates from the regional norm.
 
-Boxplot: traffic congestion.pnp
+Boxplot: traffic congestion.png
 
 What is the comparative scale between economic productivity and traffic delays per city? -Key Insight: This visualization allows for a direct comparison of scales. It highlights that cities like Montevideo and Mexico City lead in GDP per capita, while also visualizing the relative impact of traffic jams in each specific urban center.
 
-Grouped Bar Chart: economic productivity and traffic delays.pnp
+Grouped Bar Chart: economic productivity and traffic delays.png
 
 💡Analysis & Findings:
 
